@@ -1,0 +1,49 @@
+h1 {
+    margin-left: 2px;
+    padding:10px;
+    background-color:lightblue;
+    color:black;
+    font-weight: lighter;
+    font-size: 50px;
+    font-family:'Times New Roman';
+}
+#menubar {
+    height: 50px;
+    text-align: center;
+    background: #35ad5b;
+    font-size: 16px;
+    clear: both;
+    padding-left: auto;
+    overflow: auto;
+}
+.nav{
+    overflow: hidden;
+    list-style-type: none;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 0;
+}
+#abc{
+    background: #000000;
+    border-radius: 5px 5px 0px 0px;
+    padding: 15px;
+}
+.xyz{
+    font-family: verdana,arial;
+    color: #D4D4D4;
+    font-size: 1.00em;
+    font-weight:bold;
+    padding: 50px;
+}
+#login{
+    box-sizing: border-box;
+    display: inline-block;
+    width: auto; max-width: 480px;
+    background-color:#0080FF;
+    border: 2px solid #0361A8; border-radius: 5px;
+    box-shadow: 0px 0px 8px #0361A8;
+    margin: 50px auto auto;
+}
